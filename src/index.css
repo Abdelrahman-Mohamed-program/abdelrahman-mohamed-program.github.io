@@ -1,0 +1,19 @@
+h1 {
+    border-radius: 20px;
+    color: aqua;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.auth{
+    color:red
+}
+.notauth{
+    color: green;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    overflow-x: hidden;
+  }
